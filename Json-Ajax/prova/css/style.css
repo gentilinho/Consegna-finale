@@ -1,0 +1,28 @@
+.jumbotron {
+    margin-bottom: 150;
+    height: 700px;
+    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/92/b1/ce/92b1ce121a8c1ed752f3207d16fdd5b0.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: darksalmon;
+}
+
+h1 {
+    color: white;
+    margin-top: 150px;
+}
+
+p {
+    color: skyblue;
+}
+
+.post {
+    margin: 30px auto;
+}
+
+#more {
+    height: 40px;
+    width: 120px;
+    font-size: 15px;
+}
